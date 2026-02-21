@@ -94,7 +94,9 @@ Here are some of the things I’m building or experimenting with:
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME  
+- GitHub: https://github.com/anto-oswald-07
+- LinkedIn: www.linkedin.com/in/anto-oswald-682595371
+- LeetCode: https://leetcode.com/_anto_oswald_2409 
 
 ---
 
