@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Anto Oswald 👋
 
 I am a student and aspiring engineer with a strong interest in software engineering, computer systems, and emerging technologies. I enjoy learning things deeply, building from fundamentals, and creating meaningful projects that solve real problems.
