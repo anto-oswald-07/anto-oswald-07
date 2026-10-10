@@ -49,7 +49,7 @@ I believe in long-term consistency, strong foundations, and mastering concepts i
 - React.js  
 
 **Databases**
-- MySQL  
+- PostgreSQL  
 - MongoDB  
 
 **Tools & Platforms**
