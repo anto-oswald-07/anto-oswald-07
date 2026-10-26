@@ -12,10 +12,25 @@ I'm a Computer Science undergraduate fascinated by the engineering behind softwa
 
 My interests span full-stack development, cloud computing, and AI/ML. I'm exploring how these fields connect through hands-on projects and experiments, while deepening my understanding of the technologies and engineering principles behind them.
 
+
 ## 02 · Tech Stack
 
+### Languages & Web
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,nodejs,express,linux,git,github,vscode&perline=7" alt="Tech stack logos" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js&perline=7" alt="Languages and web technologies" />
+</p>
+
+### Frameworks & Runtime
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express&perline=7" alt="Frameworks and runtime" />
+</p>
+
+### Tools & Environment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&perline=7" alt="Tools and development environment" />
 </p>
 
 ## 03 · GitHub Activity
@@ -41,14 +56,3 @@ Something's cooking. Projects are in the works — stay tuned.
 - **LinkedIn:** [anto-oswald](https://www.linkedin.com/in/anto-oswald-682595371)
 - **LeetCode:** [_anto_oswald_2409](https://leetcode.com/_anto_oswald_2409)
 
-## 06 · Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anto-oswald-07/anto-oswald-07/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
-
-<p align="center">
-  <sub>UNDERSTAND THE WHY. BUILD THE WHAT. · EAT. COMMIT. REPEAT.</sub>
-</p>
