@@ -1,101 +1,54 @@
-# Hi, I'm Anto Oswald 👋
+# ANTO OSWALD
 
-I am a student and aspiring engineer with a strong interest in software engineering, computer systems, and emerging technologies. I enjoy learning things deeply, building from fundamentals, and creating meaningful projects that solve real problems.
+### SOFTWARE · SYSTEMS · EXPERIMENTS
 
-I believe in long-term consistency, strong foundations, and mastering concepts instead of chasing shortcuts.
-
----
-
-## 🚀 About Me
-
-- 🎓 Student passionate about technology and engineering  
-- 💻 Interested in Software Engineering, Systems, AI/ML, and Infrastructure  
-- 📚 Prefer learning from books and documentation for deeper understanding  
-- 🛠️ Focused on building real projects alongside theory  
-- 🎯 Long-term goal: Work on impactful large-scale systems and advanced technologies  
+*Exploring the craft of software engineering.*
 
 ---
 
-## 🧠 What I'm Currently Working On
+## 01 · Introduction
 
-- Strengthening problem-solving and programming fundamentals  
-- Learning Data Structures & Algorithms  
-- Exploring full-stack development concepts  
-- Building small projects to apply what I learn  
+I'm a Computer Science undergraduate fascinated by the engineering behind software — how ideas become applications, how systems work beneath the surface, and how thoughtful design can solve real problems. I learn by building, experimenting, asking questions, and understanding not just what works, but why.
 
----
+My interests span full-stack development, cloud computing, and AI/ML. I'm exploring how these fields connect through hands-on projects and experiments, while deepening my understanding of the technologies and engineering principles behind them.
 
-## 🧩 Areas of Interest
+## 02 · Tech Stack
 
-- Software Engineering & System Design  
-- Computer Systems (Operating Systems, Networking, Architecture)  
-- Artificial Intelligence & Machine Learning (applied)  
-- Cloud & Distributed Systems  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,nodejs,express,linux,git,github,vscode&perline=7" alt="Tech stack logos" />
+</p>
 
----
+## 03 · GitHub Activity
 
-## 🛠️ Tech Stack (Learning / Using)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anto-oswald-07&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anto-oswald-07&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
 
-**Languages**
-- C / C++  
-- Java  
-- Python  
-- JavaScript  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anto-oswald-07&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-**Web & Backend**
-- HTML, CSS  
-- Node.js  
-- Express.js  
-- React.js  
+## 04 · Projects — In the Kitchen
 
-**Databases**
-- PostgreSQL  
-- MongoDB  
+**The kitchen is open.** 🍳
 
-**Tools & Platforms**
-- Git & GitHub  
-- Linux  
-- VS Code  
+Something's cooking. Projects are in the works — stay tuned.
 
----
+## 05 · Connect With Me
 
-## 📌 Projects
+- **GitHub:** [anto-oswald-07](https://github.com/anto-oswald-07)
+- **LinkedIn:** [anto-oswald](https://www.linkedin.com/in/anto-oswald-682595371)
+- **LeetCode:** [_anto_oswald_2409](https://leetcode.com/_anto_oswald_2409)
 
-Here are some of the things I’m building or experimenting with:
+## 06 · Contribution Snake
 
-- Small web applications  
-- Backend APIs  
-- System-oriented experiments  
-- Learning-focused mini projects  
-
-(Projects are in my repositories — more coming soon.)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anto-oswald-07/anto-oswald-07/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
 
 ---
 
-## 📈 My Learning Philosophy
-
-- Master fundamentals before advanced topics  
-- Learn by building  
-- Prefer depth over speed  
-- Consistency beats motivation  
-
----
-
-## 🏗️ Future Goals
-
-- Become a strong software engineer  
-- Work on large-scale systems  
-- Contribute to impactful technology  
-- Explore research-oriented problem solving  
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/anto-oswald-07
-- LinkedIn: www.linkedin.com/in/anto-oswald-682595371
-- LeetCode: https://leetcode.com/_anto_oswald_2409 
-
----
-
-⭐ If you find my work interesting, feel free to explore my repositories.
+<p align="center">
+  <sub>UNDERSTAND THE WHY. BUILD THE WHAT. · EAT. COMMIT. REPEAT.</sub>
+</p>
