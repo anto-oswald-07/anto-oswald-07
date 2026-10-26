@@ -50,7 +50,20 @@ My interests span full-stack development, cloud computing, and AI/ML. I'm explor
 
 Something's cooking. Projects are in the works — stay tuned.
 
-## 05 · Connect With Me
+
+## 05 · Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anto-oswald-07/anto-oswald-07/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anto-oswald-07/anto-oswald-07/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anto-oswald-07/anto-oswald-07/output/github-snake.svg" />
+  </picture>
+
+</div>
+
+## 06 · Connect With Me
 
 - **GitHub:** [anto-oswald-07](https://github.com/anto-oswald-07)
 - **LinkedIn:** [anto-oswald](https://www.linkedin.com/in/anto-oswald-682595371)
