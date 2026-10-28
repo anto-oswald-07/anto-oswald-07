@@ -30,7 +30,7 @@ My interests span full-stack development, cloud computing, and AI/ML. I'm explor
 ### Tools & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&perline=7" alt="Tools and development environment" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&perline=7" alt="Linux, Git, GitHub, VS Code, and Docker" />
 </p>
 
 ## 03 · GitHub Activity
@@ -51,20 +51,7 @@ My interests span full-stack development, cloud computing, and AI/ML. I'm explor
 Something's cooking. Projects are in the works — stay tuned.
 
 
-## 05 · Contribution Activity
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anto-oswald-07/anto-oswald-07/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anto-oswald-07/anto-oswald-07/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anto-oswald-07/anto-oswald-07/output/github-snake.svg" width="100%" />
-  </picture>
-
-</div>
-
-
-## 06 · Connect With Me
+## 05 · Connect With Me
 
 - **GitHub:** [anto-oswald-07](https://github.com/anto-oswald-07)
 - **LinkedIn:** [anto-oswald](https://www.linkedin.com/in/anto-oswald-682595371)
