@@ -30,8 +30,9 @@ My interests span full-stack development, cloud computing, and AI/ML. I'm explor
 ### Tools & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker, postman&perline=7" alt="Linux, Git, GitHub, VS Code, Docker and Postman" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,postman&perline=7" alt="Linux, Git, GitHub, VS Code, Docker, and Postman" />
 </p>
+
 
 ## 03 · GitHub Activity
 
